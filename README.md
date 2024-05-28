@@ -5,6 +5,6 @@ Information about cervical cancer can be accessed from:
 
 https://www.cancer.gov/ccg/research/genome-sequencing/tcga/studied-cancers/cervical-cancer-study
 
-Public datset is available at:
+Data of Cervical Squamous Cell Carcinoma HE stained slices can be downloaded from:
 
 https://portal.gdc.cancer.gov/projects/TCGA-CESC
