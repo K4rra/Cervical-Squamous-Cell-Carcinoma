@@ -8,3 +8,8 @@ https://www.cancer.gov/ccg/research/genome-sequencing/tcga/studied-cancers/cervi
 Data of Cervical Squamous Cell Carcinoma HE stained slices can be downloaded from:
 
 https://portal.gdc.cancer.gov/projects/TCGA-CESC
+
+and
+
+https://pan.baidu.com/s/1jznTmDuPDlHr9CLLxKtMNw?pwd=lo0f 
+Extraction code: lo0f
